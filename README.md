@@ -71,8 +71,7 @@ The RFM Analytics Dashboard provides a clear and actionable framework for custom
    c. Upsell Opportunities: Focus on "Potential Loyalists" with incentives to increase their 
       frequency of purchases.
 
-   These strategies are expected to reduce churn by at least 5% and increase revenue by 
-   optimizing customer lifetime value.
+These strategies are expected to reduce churn by at least 5% and increase revenue by optimizing customer lifetime value.
 
 ### Next Steps:
 
