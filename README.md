@@ -64,8 +64,10 @@ The RFM Analytics Dashboard provides a clear and actionable framework for custom
 
    a. Retention Campaigns: Create targeted email or SMS campaigns for "At-Risk" customers with 
       tailored offers.
+
    b. Loyalty Programs: Reward "Champions" to increase retention and maximize revenue from the 
       top segment.
+
    c. Upsell Opportunities: Focus on "Potential Loyalists" with incentives to increase their 
       frequency of purchases.
 
