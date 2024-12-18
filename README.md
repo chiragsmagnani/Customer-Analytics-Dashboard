@@ -52,15 +52,15 @@ Data Analysis: Segmentation, quantile ranking, customer behavior analysis
 
 The RFM Analytics Dashboard provides a clear and actionable framework for customer segmentation, which can be used by marketing teams to design targeted campaigns.
 
-1.Insights:
+1. Insights:
 
-  a.Approximately 20% of customers fall under the "Champion" segment, contributing over 50% of 
+  a. Approximately 20% of customers fall under the "Champion" segment, contributing over 50% of 
     total revenue.
   
-  b."At-Risk" customers represent 30% of the base and need engagement strategies to reduce 
+  b. "At-Risk" customers represent 30% of the base and need engagement strategies to reduce 
      churn.
   
-2.Recommendations:
+2. Recommendations:
 
    a. Retention Campaigns: Create targeted email or SMS campaigns for "At-Risk" customers with 
       tailored offers.
