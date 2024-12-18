@@ -54,11 +54,11 @@ The RFM Analytics Dashboard provides a clear and actionable framework for custom
 
 1. Insights:
 
-  a. Approximately 20% of customers fall under the "Champion" segment, contributing over 50% of 
-    total revenue.
+   a. Approximately 20% of customers fall under the "Champion" segment, contributing over 50% of 
+      total revenue.
   
-  b. "At-Risk" customers represent 30% of the base and need engagement strategies to reduce 
-     churn.
+   b. "At-Risk" customers represent 30% of the base and need engagement strategies to reduce 
+       churn.
   
 2. Recommendations:
 
