@@ -29,7 +29,7 @@ For businesses relying on customer lifetime value, understanding purchasing beha
 
 3. Calculated Recency, Frequency, and Monetary values for each customer.
 
-4 Customer Segmentation
+4. Customer Segmentation
 
 5. Assigned R, F, and M scores based on quantile-based ranking.
 
