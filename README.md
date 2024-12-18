@@ -48,6 +48,12 @@ Data Analysis: Segmentation, quantile ranking, customer behavior analysis
 
 ### Results & Business Recommendation:
 
+
+
+https://github.com/user-attachments/assets/d9cfdb64-e1c3-4cad-9487-5c47d3b30c1b
+
+
+
 The RFM Analytics Dashboard provides a clear and actionable framework for customer segmentation, which can be used by marketing teams to design targeted campaigns.
 
 1.Insights:
@@ -58,7 +64,7 @@ The RFM Analytics Dashboard provides a clear and actionable framework for custom
   b."At-Risk" customers represent 30% of the base and need engagement strategies to reduce 
      churn.
   
-  2.Recommendations:
+2.Recommendations:
 
    a. Retention Campaigns: Create targeted email or SMS campaigns for "At-Risk" customers with 
       tailored offers.
