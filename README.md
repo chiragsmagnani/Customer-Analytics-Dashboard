@@ -48,11 +48,7 @@ Data Analysis: Segmentation, quantile ranking, customer behavior analysis
 
 ### Results & Business Recommendation:
 
-
-
-https://github.com/user-attachments/assets/d9cfdb64-e1c3-4cad-9487-5c47d3b30c1b
-
-
+![Customer-RFM-Analysis](https://github.com/user-attachments/assets/436bec32-326c-4c31-b9e6-7b1ae6c3990f)
 
 The RFM Analytics Dashboard provides a clear and actionable framework for customer segmentation, which can be used by marketing teams to design targeted campaigns.
 
